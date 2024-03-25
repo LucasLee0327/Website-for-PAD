@@ -6,7 +6,7 @@ function Signup() {
     
     return (
         <>
-            <h2>Sign up</h2>
+            <p>Sign up</p>
             <h3>本功能待開發中</h3>
             <form method="POST" action="/">
                 <label for="account_id">帳號:</label>
